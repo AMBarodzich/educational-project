@@ -3,10 +3,6 @@ package by.belkevich.services;
 import java.io.Serializable;
 import java.util.List;
 
-/**
- * @author BelkevichVA
- * @since 15.02.2017.
- */
 interface Service<T extends Serializable> {
 
     void add(T obj);

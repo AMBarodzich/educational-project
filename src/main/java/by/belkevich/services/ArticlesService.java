@@ -4,10 +4,6 @@ import by.belkevich.entities.Article;
 
 import java.util.List;
 
-/**
- * @author BelkevichVA
- * @since 15.02.2017.
- */
 public interface ArticlesService extends Service<Article> {
 
     void addArticle(Article article, String categoryName);

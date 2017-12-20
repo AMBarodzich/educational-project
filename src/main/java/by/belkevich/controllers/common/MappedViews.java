@@ -1,11 +1,5 @@
 package by.belkevich.controllers.common;
 
-/**
- * Created by
- *
- * @author Belkevich V.A.
- *         19.02.2017 15:50
- */
 public abstract class MappedViews {
     public static final String HOME = "home";
     public static final String CONTACT = "contact";

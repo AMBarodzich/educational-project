@@ -15,12 +15,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 import java.util.List;
 
-/**
- * Created by
- *
- * @author Belkevich V.A.
- *         21.02.2017 10:52
- */
 @Controller
 public class SearchController {
 

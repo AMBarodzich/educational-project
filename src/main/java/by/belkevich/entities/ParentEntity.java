@@ -3,11 +3,6 @@ package by.belkevich.entities;
 import javax.persistence.*;
 import java.io.Serializable;
 
-/**
- * @author BelkevichVA
- * @since 15.02.2017.
- */
-
 @MappedSuperclass
 abstract class ParentEntity implements Serializable{
 

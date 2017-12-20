@@ -12,12 +12,6 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
-/**
- * Created by
- *
- * @author Belkevich V.A.
- *         28.02.2017 0:42
- */
 @ControllerAdvice
 public class GlobalControllerAdvice {
 

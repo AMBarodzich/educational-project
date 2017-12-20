@@ -14,13 +14,6 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 import java.util.Properties;
 
-/**
- * Created by
- *
- * @author Belkevich V.A.
- *         17.02.2017 11:10
- */
-
 @Configuration
 @ComponentScan(basePackages = {"by.belkevich"} )
 @EnableTransactionManagement()

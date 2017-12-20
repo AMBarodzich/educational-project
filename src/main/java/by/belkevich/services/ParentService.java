@@ -7,10 +7,6 @@ import java.io.Serializable;
 import java.lang.reflect.ParameterizedType;
 import java.util.List;
 
-/**
- * @author BelkevichVA
- * @since 15.02.2017.
- */
 abstract class ParentService<T extends Serializable>  implements Service<T>{
 
     RepositoryJPAImpl<T,Long> repositoryJPA;

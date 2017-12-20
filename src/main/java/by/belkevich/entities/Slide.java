@@ -4,13 +4,6 @@ import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Table;
 
-/**
- * Created by
- *
- * @author Belkevich V.A.
- *         26.02.2017 12:08
- */
-
 @Entity
 @Table(name = "slide")
 public class Slide extends ParentEntity {

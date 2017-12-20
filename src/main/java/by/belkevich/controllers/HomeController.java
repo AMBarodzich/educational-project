@@ -16,13 +16,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import javax.servlet.http.HttpSession;
 import java.util.List;
 
-/**
- * Created by
- *
- * @author Belkevich V.A.
- *         16.02.2017 15:31
- */
-
 @Controller
 public class HomeController {
 

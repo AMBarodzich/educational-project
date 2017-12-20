@@ -3,11 +3,6 @@ package by.belkevich.entities;
 import javax.persistence.*;
 import java.util.Set;
 
-/**
- * @author BelkevichVA
- * @since 15.02.2017.
- */
-
 @Entity
 @Table(name="category")
 @NamedQueries({

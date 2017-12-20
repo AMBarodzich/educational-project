@@ -7,10 +7,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;
 
-/**
- * @author BelkevichVA
- * @since 15.02.2017.
- */
 @org.springframework.stereotype.Service
 public class CategoryServiceImpl extends ParentService<Category> implements CategoryService {
 

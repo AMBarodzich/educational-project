@@ -6,13 +6,6 @@ import java.util.HashMap;
 
 import java.util.Map;
 
-/**
- * Created by
- *
- * @author Belkevich V.A.
- *         16.02.2017 15:03
- */
-
 public class ParametersBuilder {
 
 

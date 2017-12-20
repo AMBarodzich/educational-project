@@ -17,12 +17,6 @@ import java.nio.charset.Charset;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * Created by
- *
- * @author Belkevich V.A.
- *         19.02.2017 19:33
- */
 @Configuration
 @EnableWebMvc
 @ComponentScan({"by.belkevich.controllers"})

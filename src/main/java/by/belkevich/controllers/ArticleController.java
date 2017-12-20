@@ -23,13 +23,6 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Created by
- *
- * @author Belkevich V.A.
- *         19.02.2017 9:41
- */
-
 @Controller
 @SessionAttributes("article")
 public class ArticleController {

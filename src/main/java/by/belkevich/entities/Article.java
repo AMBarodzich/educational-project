@@ -3,10 +3,6 @@ package by.belkevich.entities;
 import javax.persistence.*;
 import java.util.Date;
 
-/**
- * @author BelkevichVA
- * @since 15.02.2017.
- */
 @Entity
 @Table(name = "article")
 @NamedQueries({

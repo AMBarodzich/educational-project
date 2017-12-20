@@ -9,11 +9,6 @@ import java.io.Serializable;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author BelkevichVA
- * @since 15.02.2017.
- */
-
 @org.springframework.stereotype.Repository
 @Scope("prototype")
 public class RepositoryJPAImpl<T extends Serializable, K extends Serializable> implements Repository<T,K> {

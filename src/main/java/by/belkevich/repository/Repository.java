@@ -4,10 +4,6 @@ import java.io.Serializable;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author BelkevichVA
- * @since 15.02.2017.
- */
 interface Repository <T extends Serializable, K extends Serializable> {
 
     void setType(Class<T> type);

@@ -1,11 +1,5 @@
 package by.belkevich.controllers.common;
 
-/**
- * Created by
- *
- * @author Belkevich V.A.
- *         21.02.2017 10:54
- */
 public abstract class MappedURLs {
     public static final String HOME = "/";
     public static final String CONTACT = "/contact";
