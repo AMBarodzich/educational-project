@@ -25,6 +25,10 @@ pipeline {
 				    java --version
 				    java --version
 				    java --version
+				    java --version
+				    java --version
+				    java --version
+				    java --version
 				'''    
 			}
 		}
