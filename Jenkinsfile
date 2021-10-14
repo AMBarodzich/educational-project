@@ -11,7 +11,7 @@ pipeline {
 		stage("test"){
 			steps {
 				echo 'second stage'
-				'''
+				sh '''
 				    rm -rf second
 				    mkdir second
 				    java --version
