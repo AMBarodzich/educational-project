@@ -15,6 +15,11 @@ pipeline {
 				    rm -rf second
 				    mkdir second
 				    java --version
+				    java --version
+				    java --version
+				    java --version
+				    java --version
+				    java --version
 				'''    
 			}
 		}
